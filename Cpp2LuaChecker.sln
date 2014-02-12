@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp2LuaChecker", "Cpp2LuaChecker\Cpp2LuaChecker.vcproj", "{C071056D-ADE9-4AE5-BF70-2B31D2027679}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppSyntaxAnalysis", "CppSyntaxAnalysis\CppSyntaxAnalysis.vcproj", "{E82F133D-F79A-4EF8-BF1B-5DC99B2C5430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C071056D-ADE9-4AE5-BF70-2B31D2027679}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C071056D-ADE9-4AE5-BF70-2B31D2027679}.Debug|Win32.Build.0 = Debug|Win32
+		{C071056D-ADE9-4AE5-BF70-2B31D2027679}.Release|Win32.ActiveCfg = Release|Win32
+		{C071056D-ADE9-4AE5-BF70-2B31D2027679}.Release|Win32.Build.0 = Release|Win32
+		{E82F133D-F79A-4EF8-BF1B-5DC99B2C5430}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E82F133D-F79A-4EF8-BF1B-5DC99B2C5430}.Debug|Win32.Build.0 = Debug|Win32
+		{E82F133D-F79A-4EF8-BF1B-5DC99B2C5430}.Release|Win32.ActiveCfg = Release|Win32
+		{E82F133D-F79A-4EF8-BF1B-5DC99B2C5430}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
